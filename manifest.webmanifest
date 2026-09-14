@@ -1,0 +1,9 @@
+{
+  "name": "Анатомия работоспособности",
+  "short_name": "Анатомия",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#E9E5E0",
+  "theme_color": "#9E2B25",
+  "lang": "ru"
+}
